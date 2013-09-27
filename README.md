@@ -2,6 +2,8 @@
 
 ### 增强 IE11 的 F12 工具：
 
+<img src="https://github.com/Linrstudio/IE-F12-Plus-Plus/blob/master/ui.png?raw=true" />
+
 * 快速显示隐藏选中元素；
 * 快速复制粘贴选中元素；
 * 在选中元素添加子节点功能；
