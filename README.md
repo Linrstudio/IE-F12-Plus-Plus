@@ -12,11 +12,11 @@
 * 开启样式自动刷新功能；
 * 获取所有 css 选择器名称；
 * 取色工具；
-* IE7 兼容视图；
+* 禁用样式表；
 
 ### 下载
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/tree/master/download 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.0.6.zip 'Download') 下载
 
 ### feedback
 
