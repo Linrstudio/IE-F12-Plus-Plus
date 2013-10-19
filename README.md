@@ -13,10 +13,11 @@
 * 获取所有 css 选择器名称；
 * 取色工具；
 * 禁用样式表；
+* 锁定 F12 工具 HTML 面板节点的展示情况，刷新后自动展开；
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.0.7.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.0.8.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -28,6 +29,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2013-10-19
+
+* 添加“锁定 HTML面板当前节点”功能————用于刷新页面后，HTML 面板自动展示锁定的节点；
 
 ##### 2013-10-18
 
