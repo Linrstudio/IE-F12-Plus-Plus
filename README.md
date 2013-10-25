@@ -17,7 +17,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.0.8.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.0.9.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -29,6 +29,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2013-10-26
+
+* 添加剪贴板图片的“锁定”、“穿透”和“隐藏”功能————用于粘贴剪贴板图片后，对图片的一些操作；
 
 ##### 2013-10-19
 
