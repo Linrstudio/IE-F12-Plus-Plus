@@ -18,7 +18,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.1.0.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.1.1.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
