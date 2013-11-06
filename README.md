@@ -5,20 +5,19 @@
 <img src="https://github.com/Linrstudio/IE-F12-Plus-Plus/blob/master/ui.png?raw=true" />
 
 * 粘贴剪贴板中的图片至网页，可以拖动到任意位置查看效果（刷新保持）；
-* 像取色工具一样取 Photoshop 图层的样式并应用到 IE 开发工具所选元素；
-* 快速显示隐藏选中元素；
+* 像取色工具一样取 Photoshop 图层的样式并应用到所选元素；
+* 增强的样式面板：快速显示隐藏选中元素、背景图预览、取色工具；
 * 快速复制粘贴选中元素；
 * 在选中元素添加子节点功能；
 * 开启网页编辑模式，任意修改；
 * 开启样式自动刷新功能；
 * 获取所有 css 选择器名称；
-* 取色工具；
 * 禁用样式表；
-* 锁定 F12 工具 HTML 面板节点的展示情况，刷新后自动展开；
+* 锁定 F12 HTML树，刷新后自动展开；
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.1.1.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.0.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -31,9 +30,15 @@ http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
 
+##### 2013-11-05
+
+* CSS面板增加背景图预览功能；
+
 ##### 2013-10-31 万圣节版
 
 * 像取色工具一样取 Photoshop 图层的样式并应用到 IE 开发工具所选元素；
+
+<img src="https://github.com/Linrstudio/IE-F12-Plus-Plus/blob/master/ps.gif?raw=true" />
 
 ##### 2013-10-26
 
