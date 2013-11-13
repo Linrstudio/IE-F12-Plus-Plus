@@ -13,11 +13,11 @@
 * 开启样式自动刷新功能；
 * 获取所有 css 选择器名称；
 * 禁用样式表；
-* 锁定 F12 HTML树，刷新后自动展开；
+* 锁定 F12 HTML 树，刷新后自动展开；
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.0.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.1.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -29,6 +29,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2013-11-13
+
+* UI调整/bugfix；
 
 ##### 2013-11-05
 
