@@ -18,7 +18,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.2.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.3.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -29,6 +29,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-01-13
+
+* 改进 Photoshop 图层样式获取模块，提升 CSS 代码的真正采用率；
 
 ##### 2013-11-26
 
