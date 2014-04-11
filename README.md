@@ -18,7 +18,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.3.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.4.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -29,6 +29,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-04-11
+
+* 新增 PSD 查看工具，可以方便查看 PSD、PNG、JPG、GIF、BMP 等格式；另外可以方便转换格式和压缩图片；
 
 ##### 2014-01-13
 
