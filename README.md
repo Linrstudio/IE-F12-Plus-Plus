@@ -15,10 +15,11 @@
 * 禁用样式表；
 * 锁定 F12 HTML 树，刷新后自动展开；
 * 获取 Photoshop 辅助线并显示在页面中，可以随意拖动/删除；
+* 预览 PSD 文件；
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.4.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.2.5.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -29,6 +30,13 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-05-11
+
+* 粘贴图片 URL 也可以显示到页面中了；
+* 查看任意源代码功能（复制任意 URL 地址，点击 F12++ 工具条上...图标，选择“粘贴剪贴板中的图片”，即可查看源代码）；
+* “粘贴剪贴板中的图片”默认开启刷新锁定；
+* CSS面板功能增强 bugfix；
 
 ##### 2014-04-11
 
