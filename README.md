@@ -19,7 +19,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-1.4.7.2.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.8.13.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -30,6 +30,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-08
+
+	** 兼容 IE 11.0.9600.17239 (11.0.11 KB2976627 补丁) 及 IE 12 预览版；
 
 ##### 2014-07
 
