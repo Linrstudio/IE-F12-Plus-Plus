@@ -4,6 +4,7 @@
 
 <img src="https://github.com/Linrstudio/IE-F12-Plus-Plus/blob/master/ui.png?raw=true" />
 
+* 业界首创 CSS3 动画调试工具；
 * 粘贴剪贴板中的图片至网页，可以拖动到任意位置查看效果（刷新保持）；
 * 像取色工具一样取 Photoshop 图层的样式并应用到所选元素；
 * 增强的样式面板：快速显示隐藏选中元素、背景图预览、取色工具；
@@ -19,7 +20,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.8.13.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.9.19.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -30,6 +31,10 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-09
+
+* 添加业界首创 CSS3 动画调试工具；
 
 ##### 2014-08
 
