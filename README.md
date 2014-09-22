@@ -20,7 +20,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.9.19.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.9.21.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -35,6 +35,7 @@ http://t.qq.com/linrstudio
 ##### 2014-09
 
 * 添加业界首创 CSS3 动画调试工具；
+* 优化
 
 ##### 2014-08
 
