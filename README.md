@@ -20,7 +20,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.9.21.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.0.10.30.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
@@ -31,6 +31,14 @@
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2014-10
+
+* 重写辅助程序；
+* 在 HTML 面板添加节点操作工具条———在节点上点击，可以看到节点前面一个小方块，移动到小方块，可以看到各种节点小操作；
+* 增加最近文件列出程序；
+* 增加滚动到可视范围；
+* 界面优化；
 
 ##### 2014-09
 
