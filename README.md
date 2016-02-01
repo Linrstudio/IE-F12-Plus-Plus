@@ -14,23 +14,25 @@
 * 开启样式自动刷新功能；
 * 获取所有 css 选择器名称；
 * 禁用样式表；
-* 锁定 F12 HTML 树，刷新后自动展开；
 * 获取 Photoshop 辅助线并显示在页面中，可以随意拖动/删除；
 * 预览 PSD 文件；
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.1.4.16.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/raw/master/download/IEF12%2B%2B-2.5.2.1.zip 'Download') 下载
 
 ### 系统要求 system requred:
 
-* Windows 7/8 + IE11
+* Windows 7/10 + IE11
 
 ### feedback
 
 http://t.qq.com/linrstudio
 
 ### 更新日志 changelog
+
+##### 2016-2
+* 兼容 Windows 10 版 IE11（11.0.10240.16590）
 
 ##### 2015-4
 * bugfix；
